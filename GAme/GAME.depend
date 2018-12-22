@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1448042929 source:c:\users\user\desktop\project\game\helper.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper.h"
+
+1448044738 source:c:\users\user\desktop\project\game\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper.h"
+
+1448041625 c:\users\user\desktop\project\game\helper.h
+
+1448807989 source:c:\users\redoan\desktop\game\helper.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"graphics.h"
+	"winbgim.h"
+	"helper.h"
+
+1448803389 c:\users\redoan\desktop\game\helper.h
+
+1448807632 source:c:\users\redoan\desktop\game\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"graphics.h"
+	"helper.h"
+
